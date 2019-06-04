@@ -16,5 +16,6 @@ RUN apt-get update && apt-get install -y lte-emulator iproute2 arping           
   && apt-get clean                                                                              
 
 COPY init.sh .
+RUN chmod +x init.sh
 
 WORKDIR /
