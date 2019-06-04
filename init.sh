@@ -5,7 +5,7 @@
 TAP_STA="tap-lte-sta"
 TAP_STA_MAC="aa:bb:cc:00:00:01"
 
-TAP_BS =="tap-lte-bs"
+TAP_BS=="tap-lte-bs"
 TAP_BS_MAC="aa:bb:cc:00:00:02"
 
 # Wait a bit for the other nodes to be ready
